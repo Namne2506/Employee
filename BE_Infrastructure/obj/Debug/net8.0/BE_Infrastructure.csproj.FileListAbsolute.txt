@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\bin\Debug\net8.0\BE_Infrastructure.deps.json
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\bin\Debug\net8.0\BE_Infrastructure.runtimeconfig.json
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\bin\Debug\net8.0\BE_Infrastructure.dll
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\bin\Debug\net8.0\BE_Infrastructure.pdb
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\BE_Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\BE_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\BE_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\BE_Infrastructure.AssemblyInfo.cs
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\BE_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\BE_Infrastructure.dll
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\refint\BE_Infrastructure.dll
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\BE_Infrastructure.pdb
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\BE_Infrastructure.genruntimeconfig.cache
+C:\Users\admin\source\repos\Namne_Prj\BE_Infrastructure\obj\Debug\net8.0\ref\BE_Infrastructure.dll
